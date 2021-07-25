@@ -1,2 +1,2 @@
-# prime-pub
-Deploying prime-pub former app
+# primepub
+prime pub restaurant landing page
